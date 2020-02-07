@@ -1,0 +1,43 @@
+@font-face{
+    src: url(../fonts/arvo/Arvo-Bold.ttf);
+    font-family: "arvo";
+}
+
+#home{
+    font-family: "arvo";
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.596);
+    color: white;
+    padding: 10px;
+    position: relative;
+    top: 160px;
+    
+}
+
+.success{
+    text-align: center;
+    background-image: url(../img/blur1.1.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 300px;
+
+}
+
+h1{
+    font-size: 70px;
+    font-family: "arvo";
+    color: whitesmoke;
+    -webkit-text-stroke-color:black;
+    -webkit-text-stroke-width: 1px;
+}
+
+.Successfooter{
+    text-align: center;
+    background-color: black;
+    padding: 15px;
+    margin-top: 200px;
+}
+#para{
+    color: whitesmoke;
+}
